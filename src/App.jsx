@@ -11,7 +11,7 @@ const PROJECTS = [
     color: "#FF6B6B",
     icon: "🛡️",
     github: "https://github.com/dwivediadarsh496-commits/SafeMail-AI",
-    live: "https://safe-mail-ai-five.vercel.app/",
+    live: "https://safemail-ai-6.onrender.com/",
     stats: ["94%+ Accuracy", "18,650+ Emails", "<2s Response"],
     bullets: [
       "Full-stack ML web app detecting phishing emails with 94%+ accuracy using Naive Bayes + TF-IDF on 18,650 email dataset",
