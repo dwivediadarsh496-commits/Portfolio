@@ -71,7 +71,7 @@ const PROJECTS = [
     color: "#FFD166",
     icon: "💳",
     github: "https://github.com/dwivediadarsh496-commits/Fraud-Detection",
-    live: "https://github.com/dwivediadarsh496-commits/froud-detection-for-fake-payments/tree/main/froud%20detection%20for%20fake%20payments",
+    live: "https://froud-detection-for-fake-payments-olithhybrdmgxrcvcxmrpn.streamlit.app/",
     stats: ["Transaction Analysis", "Feature Eng.", "Classification"],
     bullets: [
       "ML-based system to detect fraudulent transactions with anomaly detection",
