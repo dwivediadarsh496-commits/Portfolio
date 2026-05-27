@@ -41,7 +41,7 @@ const PROJECTS = [
     color: "#6C63FF",
     icon: "🧠",
     github: "https://github.com/dwivediadarsh496-commits/Mini-LLM-From-Scratch",
-    live: "https://mini-llm-from-scratch-1.onrender.com/",
+    live: "https://mini-llm-from-scratch-2.onrender.com/",
     stats: ["WikiText-2", "Transformer", "PyTorch"],
     bullets: [
       "Built character-level Mini Language Model using PyTorch and WikiText-2 dataset",
@@ -56,7 +56,7 @@ const PROJECTS = [
     color: "#00C9A7",
     icon: "🤖",
     github: "https://github.com/dwivediadarsh496-commits/ChatBot-RAG",
-    live: "https://github.com/dwivediadarsh496-commits/ChatBot-RAG",
+    live: "https://huggingface.co/spaces/AdarshRani/rag-pdf-chatbot",
     stats: ["Semantic Search", "LangChain", "Embeddings"],
     bullets: [
       "AI-powered chatbot using Retrieval-Augmented Generation architecture",
