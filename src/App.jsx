@@ -72,7 +72,7 @@ const PROJECTS = [
     color: "#A78BFA",
     icon: "📈",
     github: "https://github.com/dwivediadarsh496-commits/-CGPA-Trend-Analysis",
-    live: "https://cgpa-trend-analysis.vercel.app/",
+    live: "https://huggingface.co/spaces/AdarshRani/cgpa-trend-analysis-gradio",
     stats: ["Semester Trends", "GPA Prediction", "Visual Dashboard"],
     bullets: [
       "Python-based CGPA trend analysis tool for tracking academic performance across semesters",
