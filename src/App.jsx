@@ -19,21 +19,7 @@ const PROJECTS = [
       "3-tier classification (Phishing / Suspicious / Legitimate) with confidence score, risk breakdown & prevention tips",
     ],
   },
-  {
-    title: "CGPA Trend Analysis",
-    tags: ["Python", "Data Analysis", "Visualization"],
-    date: "2025",
-    color: "#A78BFA",
-    icon: "📈",
-    github: "https://github.com/dwivediadarsh496-commits/-CGPA-Trend-Analysis",
-    live: "https://huggingface.co/spaces/AdarshRani/cgpa-trend-analysis-gradio",
-    stats: ["Semester Trends", "GPA Prediction", "Visual Dashboard"],
-    bullets: [
-      "Python-based CGPA trend analysis tool for tracking academic performance across semesters",
-      "Visualizes grade patterns and predicts future CGPA trajectory using statistical analysis",
-      "Deployed on Vercel with interactive dashboard for data-driven academic insights",
-    ],
-  },
+
   {
     title: "Mini LLM From Scratch",
     tags: ["Transformer", "PyTorch", "Tokenization"],
@@ -77,6 +63,21 @@ const PROJECTS = [
       "ML-based system to detect fraudulent transactions with anomaly detection",
       "Data preprocessing and feature analysis pipeline for transaction data",
       "Applied classification models for accurate fraud detection",
+    ],
+  },
+  {
+    title: "ChatBot RAG",
+    tags: ["RAG Pipeline", "LangChain", "Vector DB"],
+    date: "May 2026",
+    color: "#00C9A7",
+    icon: "🤖",
+    github: null,
+    live: null,
+    stats: ["Semantic Search", "LangChain", "Embeddings"],
+    bullets: [
+      "AI-powered chatbot using Retrieval-Augmented Generation architecture",
+      "Semantic search and vector embeddings for context-aware responses",
+      "Built with LangChain, vector databases, and embedding models",
     ],
   },
   {
