@@ -365,6 +365,7 @@ function HeroSection() {
               { label: "LinkedIn", href: "https://www.linkedin.com/in/adarsh-dwivedi-498ba4373", icon: "In" },
               { label: "YouTube", href: "https://www.youtube.com/@AdarshDwivedi-i2k", icon: "▶" },
               { label: "Blog", href: "https://medium.com/@dwivediadarsh496", icon: "✍" },
+              { label: "Telegram", href: "https://t.me/Adarshdwivedi_bot", icon: "✈️" }
             ].map((s) => (
               <a key={s.label} href={s.href} target="_blank" rel="noopener noreferrer" style={{
                 fontFamily: "'DM Sans', sans-serif",
